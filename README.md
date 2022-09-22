@@ -4,13 +4,13 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="WIZARD MULTI DEVICE" src="https://img.shields.io/badge/WIZARD MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ASHIK Ikka" src="https://telegra.ph/file/e2528ad91bd12ba50803e.jpg/ASHIK MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-AJMAL-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ashikdq/Wizard-MD?organization=ashikdq&organization=ashikdq" src="https://img.shields.io/badge/Author-AJMAL-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Ajmal-Achu/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal-Achu?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ajmal-Achu"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/ashikdq/Wizard-MD?organization=ashikdq&organization=ashikdq"><img title="Followers" src="https://img.shields.io/github/followers/Ajmal-Achu?color=blue&style=flat-square"></a>
+<a href="https://github.com/ashikdq/Wizard-MD?organization=ashikdq&organization=ashikdq"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ajmal-Achu/Wizard-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajmal-Achu/Wizard-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ajmal-Achu/Wizard-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajmal-Achu/Wizard-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/Ajmal-Achu/Wizard-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajmal-Achu/Wizard-MD?label=Watchers&color=blue&style=flat-square"></a>
@@ -44,7 +44,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install wget
 apt install imagemagick -y
-git clone https://github.com/Ajmal-Achu/Wizard-MD
+git clone https://github.com/ashikdq/Wizard-MD?organization=ashikdq&organization=ashikdq
 cd Wizard-MD
 rm -r session.json
 node.
